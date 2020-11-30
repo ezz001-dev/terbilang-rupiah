@@ -8,8 +8,8 @@ NPM Node Module terbilang rupiah
 
 > Simple Usage :
 
-`const terbilang = require('./index');
-console.log(terbilang(333333));`
+`const terbilang = require('./index');`
+`console.log(terbilang(333333));`
 
 > Result : 
 <br/>
