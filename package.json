@@ -1,0 +1,22 @@
+{
+  "name": "terbilang-rupiah",
+  "version": "1.0.0",
+  "description": "Merubah Angka Menjadi Kalimat terbilang dalam rupiah",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/alfiankan/terbilang-rupiah.git"
+  },
+  "keywords": [
+    "terbilangrupiah"
+  ],
+  "author": "Alfiankan",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/alfiankan/terbilang-rupiah/issues"
+  },
+  "homepage": "https://github.com/alfiankan/terbilang-rupiah#readme"
+}
