@@ -13,5 +13,5 @@ console.log(terbilang(333333));`
 
 > Result : 
 <br/>
-<img src="console.ong" />
+<img src="console.png" />
 <br/>
