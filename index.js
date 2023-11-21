@@ -14,12 +14,12 @@ const terbilangRupiah = function(bilangan) {
     }
    
     /* mengambil angka-angka yang ada dalam bilangan, dimasukkan ke dalam array */
-    for (i = 1; i <= panjang_bilangan; i++) {
+    for (let i = 1; i <= panjang_bilangan; i++) {
       angka[i] = bilangan.substr(-(i),1);
     }
    
-    i = 1;
-    j = 0;
+    let i = 1;
+    let j = 0;
     kaLimat = "";
    
    
